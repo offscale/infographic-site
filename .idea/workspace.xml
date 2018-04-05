@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81c095a0-9b30-4e28-a3d2-c2a7735d2dcf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/samuel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markup-prototype.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/MyriadWebPro.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bcgov-main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/branch_plan_on_a_page.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/what_is_digital_infographic.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Goal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Goal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Goal3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Goal4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Cloud.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Connectivity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Digital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Mobility.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Security.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/bc-services-card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/cloudbc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/developers-exchange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/devices-and-productivity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/hosting-infrastructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/identity-management.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/imit-capital-investment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/imit-stream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/imit-talent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/information-security.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/it-service-delivery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/mobile-device-management.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/my-service-centre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/network-modernization.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/policy-standards-architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/strategy-planning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-blue/telecommunications-and-network.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gov-img/back-to-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gov-img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gov-img/footer_collapsebutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gov-img/footer_expandbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gov-img/gov3_bc_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gov-img/search-ico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gov-img/search-open-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/connectivity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/digital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/goal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/goal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/goal3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/goal4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/mobility.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green/security.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header/KnowledgeSectors.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header/NaturalResources.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header/SecureTomorrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header/StrongEconomy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p-data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p-digital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p-mobility.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/bootstrap-tabcollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/readme.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="586" column="59" selection-start-line="586" selection-start-column="59" selection-end-line="586" selection-end-column="59" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2196#2201#0" expanded="true" />
+                <element signature="e#4507#4512#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Excellence and innovation in technology,</find>
+      <find>OCIO</find>
+      <find>business priori</find>
+      <find>Cloud migra</find>
+      <find>migration</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="997" />
+    <option name="y" value="23" />
+    <option name="width" value="683" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ES6Validation</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="markup-prototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markup-prototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.1.3" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/n/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c095a0-9b30-4e28-a3d2-c2a7735d2dcf" name="Default" comment="" />
+      <created>1522921122366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522921122366</updated>
+      <workItem from="1522921124009" duration="1335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1335000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="997" y="23" width="683" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32942432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="586" column="59" selection-start-line="586" selection-start-column="59" selection-end-line="586" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2196#2201#0" expanded="true" />
+            <element signature="e#4507#4512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
