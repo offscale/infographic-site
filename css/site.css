@@ -360,3 +360,8 @@ h1 {
 	margin-left: 0;
 	margin-right: 0;
 }
+
+.cloud-logo {
+	max-height: 10em;
+	max-width: 10em;
+}
