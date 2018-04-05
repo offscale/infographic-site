@@ -2,74 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81c095a0-9b30-4e28-a3d2-c2a7735d2dcf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/samuel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markup-prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/MyriadWebPro.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bcgov-main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/branch_plan_on_a_page.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/what_is_digital_infographic.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Goal1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Goal2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Goal3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Goal4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Cloud.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Connectivity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Digital.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Mobility.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KeyProjects/Security.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/bc-services-card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/cloudbc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/developers-exchange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/devices-and-productivity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/hosting-infrastructure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/identity-management.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/imit-capital-investment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/imit-stream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/imit-talent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/information-security.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/it-service-delivery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/mobile-device-management.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/my-service-centre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/network-modernization.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/policy-standards-architecture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/strategy-planning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dark-blue/telecommunications-and-network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gov-img/back-to-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gov-img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gov-img/footer_collapsebutton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gov-img/footer_expandbutton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gov-img/gov3_bc_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gov-img/search-ico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gov-img/search-open-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/connectivity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/digital.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/goal1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/goal2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/goal3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/goal4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/mobility.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/green/security.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header/KnowledgeSectors.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header/NaturalResources.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header/SecureTomorrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header/StrongEconomy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/p-data.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/p-digital.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/p-mobility.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/bootstrap-tabcollapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap-tabcollapse/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -86,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="586" column="59" selection-start-line="586" selection-start-column="59" selection-end-line="586" selection-end-column="59" />
+            <state relative-caret-position="573">
+              <caret line="833" column="42" selection-start-line="833" selection-start-column="42" selection-end-line="833" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -107,6 +41,8 @@
       <find>business priori</find>
       <find>Cloud migra</find>
       <find>migration</find>
+      <find>Moderni</find>
+      <find>Modernize</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,8 +60,8 @@
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
-    <annotation-enable>false</annotation-enable>
     <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -188,7 +124,7 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/n/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,6 +138,9 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/markup-prototype/index.html" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -212,26 +151,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522921122366</updated>
-      <workItem from="1522921124009" duration="1335000" />
+      <workItem from="1522921124009" duration="4049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1335000" />
+    <option name="totallyTimeSpent" value="4049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="997" y="23" width="683" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2489019" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32942432" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32942432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978677" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -251,8 +190,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="586" column="59" selection-start-line="586" selection-start-column="59" selection-end-line="586" selection-end-column="59" />
+        <state relative-caret-position="573">
+          <caret line="833" column="42" selection-start-line="833" selection-start-column="42" selection-end-line="833" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
