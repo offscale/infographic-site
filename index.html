@@ -10,13 +10,12 @@
     <link href="css/site.css" rel="stylesheet">
 
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"
+            crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
             integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
             crossorigin="anonymous"></script>
     <script src="js/bootstrap-tabcollapse/bootstrap-tabcollapse.js"></script>
-    <!-- <script src="~/Scripts/Govt/misc.js"></script> -->
-    <!-- <script src="~/Scripts/Govt/navMenu.js"></script> -->
 </head>
 <body>
 <!-- Header -->
@@ -35,12 +34,28 @@
 <div class="container main-content">
     <div class="well">
         Offscale.io is a software consultancy specialising in:
-        <ul>
-            <li>cloud migration</li>
-            <li>automating cloud</li>
-            <li>scalable software development</li>
-            <li>data analytics</li>
-        </ul>
+        <div class="btn-group btn-group-justified" role="group" aria-label="...">
+            <div class="btn-group" role="group">
+                <button type="button" class="btn btn-info">
+                    cloud migration
+                </button>
+            </div>
+            <div class="btn-group" role="group">
+                <button type="button" class="btn btn-info">
+                    infrastructure automation
+                </button>
+            </div>
+            <div class="btn-group" role="group">
+                <button type="button" class="btn btn-success">
+                    scalable software development
+                </button>
+            </div>
+            <div class="btn-group" role="group">
+                <button type="button" class="btn btn-primary">
+                    data analytics
+                </button>
+            </div>
+        </div>
     </div>
 
     <!-- First content group -->
@@ -73,7 +88,8 @@
                             <li class="col-md-3" style="padding-top: 2em">
                                 <div href="#aws" data-toggle="tab"
                                      class="js-tabcollapse-panel-heading collapsed" aria-expanded="false">
-                                    <img class="svg cloud-logo hidden-xs hidden-sm" src="img/Amazon_Web_Services_Logo.svg"/>
+                                    <img class="svg cloud-logo hidden-xs hidden-sm"
+                                         src="img/Amazon_Web_Services_Logo.svg"/>
                                     <h1 class="inverse-blue">Amazon Web Services (AWS)</h1>
                                 </div>
                             </li>
@@ -94,7 +110,8 @@
                             <li class="col-md-3">
                                 <div href="#clouds" data-toggle="tab"
                                      class="js-tabcollapse-panel-heading collapsed" aria-expanded="false">
-                                    <img class="svg cloud-logo hidden-xs hidden-sm" src="img/header/KnowledgeSectors.svg"/>
+                                    <img class="svg cloud-logo hidden-xs hidden-sm"
+                                         src="img/header/KnowledgeSectors.svg"/>
                                     <h1 class="inverse-blue">50+ others (public &amp; private)</h1>
                                 </div>
                             </li>
@@ -199,34 +216,34 @@
                     <div class="fluid-container">
                         <ul class="adaptive-tabs nav nav-tabs row circle-parent">
                             <li class="col-md-3">
-                                <div href="#ModernizeCitizenExperience" data-toggle="tab"
+                                <div href="#docker" data-toggle="tab"
                                      class="js-tabcollapse-panel-heading collapsed" aria-expanded="false">
-                                    <div class="circle-border blue">Docker</div>
+                                    <img class="sphere-logo" src="img/docker.png" alt="Docker"/>
                                 </div>
                             </li>
                             <li class="col-md-3">
-                                <div href="#ModernizeSystemsWorkplaces" data-toggle="tab"
+                                <div href="#dcos" data-toggle="tab"
                                      class="js-tabcollapse-panel-heading collapsed" aria-expanded="false">
-                                    <div class="circle-border blue">Mesosphere DC/OS</div>
+                                    <img class="sphere-logo" src="img/mesosphere.svg" alt="Mesosphere DC/OS">
                                 </div>
                             </li>
                             <li class="col-md-3">
                                 <div href="#EngagePeople" data-toggle="tab"
                                      class="js-tabcollapse-panel-heading collapsed" aria-expanded="false">
-                                    <div class="circle-border blue">etcd</div>
+                                    <img class="sphere-logo" src="img/etcd-logo.png" alt="etcd">
                                 </div>
                             </li>
                             <li class="col-md-3">
-                                <div href="#SupportGrowth" data-toggle="tab"
+                                <div href="#github" data-toggle="tab"
                                      class="js-tabcollapse-panel-heading collapsed" aria-expanded="false">
-                                    <div class="circle-border blue">github.com/offscale</div>
+                                    <img class="sphere-logo" src="img/github.png" alt="github.com/offscale">
                                 </div>
                             </li>
                         </ul>
 
                         <div class="row">
                             <div class="tab-content col-md-12">
-                                <div class="tab-pane fade" id="ModernizeCitizenExperience">
+                                <div class="tab-pane fade" id="docker">
                                     <p>The OCIO is a division within the Ministry of Technology, Innovation & Citizens
                                         Services (MTICS). The <a
                                                 href="https://intranet.gov.bc.ca/assets/intranet/mtics/our-ministry/mtics_strategic_plan_2016-2019_-_web.pdf">MTICS
@@ -238,7 +255,7 @@
                                         services provided in a digital format, ensuring those services continue to be
                                         provided securely, and that information is protected.</p>
                                 </div>
-                                <div class="tab-pane fade" id="ModernizeSystemsWorkplaces">
+                                <div class="tab-pane fade" id="dcos">
                                     <p>The OCIO is a division within the Ministry of Technology, Innovation & Citizens
                                         Services (MTICS). The <a
                                                 href="https://intranet.gov.bc.ca/assets/intranet/mtics/our-ministry/mtics_strategic_plan_2016-2019_-_web.pdf">MTICS
@@ -262,7 +279,7 @@
                                         and capability within the organization. We will also use succession planning to
                                         proactively identify our human resources needs.</p>
                                 </div>
-                                <div class="tab-pane fade" id="SupportGrowth">
+                                <div class="tab-pane fade" id="github">
                                     <p>The OCIO is a division within the Ministry of Technology, Innovation & Citizens
                                         Services (MTICS). The <a
                                                 href="https://intranet.gov.bc.ca/assets/intranet/mtics/our-ministry/mtics_strategic_plan_2016-2019_-_web.pdf">MTICS
@@ -300,7 +317,8 @@
                             <li class="col-md-12">
                                 <div href="#MinistryVision" data-toggle="tab"
                                      class="js-tabcollapse-panel-heading collapsed" aria-expanded="false">
-                                    <h1 class="blue small">Full automate your infrastructure, deployments and make your stack portable.</h1>
+                                    <h1 class="blue small">Full automate your infrastructure, deployments and make your
+                                        stack portable.</h1>
                                 </div>
                             </li>
                         </ul>
